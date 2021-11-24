@@ -12,5 +12,8 @@ https://blog.knoldus.com/introduction-to-terraform-1/
 https://blog.knoldus.com/spinning-up-terraform-configuration-2/
 https://blog.knoldus.com/quick-start-terratest-with-terraform/
 
+You can also see this template for getting started
+https://github.com/knoldus/TerratestWithTerraform
+
 Usage
 *sh ./<fileName>.sh
