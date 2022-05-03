@@ -4,5 +4,5 @@
 
 ## Add an alias to script 
 - nano ~/.bashrc
-- Add this line at the bottom of the file ``` alias osc='cd #PATH_TO_REPOSITORY/git_clone_shell ; ./git_clone.sh' ```
+- Add this line at the bottom of the file ``` alias osc='cd #PATH_TO_REPOSITORY/GIT_CLONE_SHELL ; ./git_clone.sh' ```
 - Now ``` osc``` command can be executed from anywhere to run the script.
