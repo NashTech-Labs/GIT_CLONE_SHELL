@@ -30,5 +30,7 @@ elif [ $ans == "N" ] || [ $ans == "No" ] || [ $ans == "n" ] || [ $ans == "no" ];
     echo "At master branch only"
 fi
 
+echo "run cd ~/git-contributions/$reponame and start contributing !!!"
 unset ans
+unset gitcontributions
 
